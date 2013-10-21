@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordsearchpuzzle width="608" height="241" placeWords="8" solutionColor="0x3c4fa1" menuWidth="100" readingDirection="leftToRight" mode="exam" timeLimit="100" submitResults="true" timeWeight="1" cellDimensions="33">
+	<filter>xml/BadWords.xml</filter>
+	<alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>
+	<word info="1">NADAR</word>
+	<word info="1">TERRAZA</word>
+	<word info="1">ALBERCA</word>
+	<word info="1">PISCINA</word>
+	<word info="2">RESIDENCIA</word>
+	<word info="2">CAYENNE</word>
+	<word info="2">PORSCHE</word>
+	<word info="2">HOGAR</word>
+	<word info="3">CINE</word>
+	<word info="3">PELICULA</word>
+	<word info="3">PALOMITAS</word>
+	<word info="4">COCINA</word>
+	<word info="4">COMIDA</word>
+	<word info="4">FRUTAS</word>
+	<word info="4">DESAYUNO</word>
+	<word info="5">RECAMARA</word>
+	<word info="5">DESCANSO</word>
+	<word info="5">DORMIR</word>
+	<word info="6">BOLETO</word>
+</wordsearchpuzzle>

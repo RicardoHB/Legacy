@@ -1,0 +1,14 @@
+document.write('<body onLoad="onPageLoad()">');
+document.write('<div class="top">');
+document.write('<div class="top_content">');
+document.write('<table width="960" border="0" cellspacing="0" cellpadding="0">');
+document.write('<tr>');
+document.write('<td width="53"><span class="top_content_title">Twitter:</span></td>');
+document.write('<td width="638"><div id="twitter_update_list"></div></td>');
+document.write('<td width="269" align="right" valign="middle">&Uacute;ltima actualizaci&oacute;n: 18 de Diciembre de 2011</td>');
+document.write('</tr>');
+document.write('</table>');
+document.write('<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>');
+document.write('<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/nostroke.json?callback=twitterCallback2&count=1"></script>');
+document.write('</div>');
+document.write('</div>');
